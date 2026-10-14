@@ -7,8 +7,8 @@ The Mac app of SRG+ CRM, for download outside the App Store.
 Open the DMG and drag SRG+ CRM to Applications. The app updates itself (Sparkle): it checks once a day, and
 **SRG+ CRM › Check for Updates…** checks at once. It needs macOS 26 or later.
 
-**Dev, for the studio's own testing.** These builds sign in with the SRG+ development accounts and work on the CRM's
-development server, not on real client data.
+Sign in with your SRG+ account (a code by email or text). Since build 202610141628 the app works on the CRM's production
+server.
 
 This repository only hosts the releases (the DMG) and `appcast.xml`, the update feed the installed apps read
 (GitHub Pages, `https://srgplus.github.io/srgplus-crm-macos/appcast.xml`). The app's code and the build script
