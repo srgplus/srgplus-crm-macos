@@ -6,6 +6,21 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.18 (202610200637)</title>
+      <pubDate>Tue, 20 Oct 2026 06:40:53 +0000</pubDate>
+      <sparkle:version>202610200637</sparkle:version>
+      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h2>What's new in 0.1.18</h2>
+<ul>
+<li><b>Bank details for vendors and contractors.</b> The Companies list shows whose bank details we have. A vendor's or a contractor's page shows their 1Password and Revolut records under In other apps, with Ask for details and Link a 1Password record (Owner and Admins).</li>
+<li><b>Fixed:</b> on a contact's page, an email from a long sender address no longer pushes the page over the contacts list.</li>
+</ul>
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/latest/download/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="QMNY47v+a5U9rlsrnkMfGccEuW9WCdf+XMRAFRmGEkaSpAKbBg+slX7jPi5WpdMOS3iLMeYbTQ92HJKvYmQjBg==" length="9520195" />
+    </item>
+    <item>
       <title>0.1.16 (202610180835)</title>
       <pubDate>Sun, 18 Oct 2026 08:38:38 +0000</pubDate>
       <sparkle:version>202610180835</sparkle:version>
