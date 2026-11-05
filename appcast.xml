@@ -6,6 +6,14 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.34 (202611052032)</title>
+      <pubDate>Thu, 05 Nov 2026 20:39:23 +0000</pubDate>
+      <sparkle:version>202611052032</sparkle:version>
+      <sparkle:shortVersionString>0.1.34</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/latest/download/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="BpDVrqIkcuMBHtaFepax452m08pwLsvnGsGqJly8hWR/Nu8n59g1tLTEVoFNNx62YDNF0PSe48tbYVsYlUI9Cg==" length="13379483" />
+    </item>
+    <item>
       <title>0.1.34 (202611050139)</title>
       <pubDate>Thu, 05 Nov 2026 01:42:38 +0000</pubDate>
       <sparkle:version>202611050139</sparkle:version>
