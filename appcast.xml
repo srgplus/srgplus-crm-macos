@@ -6,6 +6,21 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.34.1 (202611182127)</title>
+      <pubDate>Wed, 18 Nov 2026 21:33:56 +0000</pubDate>
+      <sparkle:version>202611182127</sparkle:version>
+      <sparkle:shortVersionString>0.1.34.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Messenger, WhatsApp and Telegram in the Inbox.** Their messages come into the feed and you reply on the same network. Each Inbox folder now shows its own channel's messages.
+- **Settings › Channels** lists every connected social account and who sees it, with Manage in SRG+ Connect.
+- **Do Not Disturb** is on every contact card.
+- Companies show their own logo.
+- **Updates install by themselves.** SRG+ CRM checks every hour and installs a new version when you quit it.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/latest/download/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="SHybXcH5psh0W33PVhtQywEe4QMK6idpUI/ApQEcUcriTNDCrqlzRDNZczV5ytC00LeBbOUv8cguxv4jaLQVCA==" length="37511533" />
+    </item>
+    <item>
       <title>0.1.34 (202611180729)</title>
       <pubDate>Wed, 18 Nov 2026 07:48:54 +0000</pubDate>
       <sparkle:version>202611180729</sparkle:version>
