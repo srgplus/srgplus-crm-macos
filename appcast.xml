@@ -6,6 +6,19 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.34.5 (202611190411)</title>
+      <pubDate>Thu, 19 Nov 2026 04:18:44 +0000</pubDate>
+      <sparkle:version>202611190411</sparkle:version>
+      <sparkle:shortVersionString>0.1.34.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Review: your team's jobs in one place.** Under Review: Due, Today, Upcoming, Open, Team and Done. Pick Up an open job, Give Back, Assign To… a person or an agent, set the priority, Snooze, or Ask Agent…. New Task… adds one. A contact's or a deal's next step is a Review job now.
+- **A hint before a contact is made twice.** While you type a new contact, the app lists people who look like the same one ("Same email", "Same phone", "Same name"). Click one to open it instead; Create Contact still works.
+- **Maybe the same person** on a contact and in its conversation, with Not the Same and Merge…. Not the Same is remembered, so that pair is never suggested again.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/latest/download/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="bCVqp7cDPsCFanlMzG2UW6OldYkaHSOhV7Yvo8/gnXHC4qG0LByQsCc9+e+Hgch/Jg+hWewxPgciOtdMB+pCAA==" length="38634683" />
+    </item>
+    <item>
       <title>0.1.34.4 (202611190306)</title>
       <pubDate>Thu, 19 Nov 2026 03:25:52 +0000</pubDate>
       <sparkle:version>202611190306</sparkle:version>
