@@ -6,6 +6,20 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.34.7 (202611190736)</title>
+      <pubDate>Thu, 19 Nov 2026 07:40:56 +0000</pubDate>
+      <sparkle:version>202611190736</sparkle:version>
+      <sparkle:shortVersionString>0.1.34.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Deals at risk.** A deal with no message and no move for its stage's quiet days (5 for Offer sent, 14 for the rest, set per stage) gets a card in Review with Email, Call and Snooze. When an agent wrote a nudge, it comes with the card to approve.
+- **Trust in agents.** Settings › Members shows how often each agent's work went out as written, edited or dismissed. After 20 as written in a row, the Owner is asked in Review whether to trust that agent with that kind of work, and can take it back at any time.
+- **Fewer pushes, the right ones.** Review pushes only for a High job given to you, a new lead, a reply in your deal, or a job an agent gave back. A tap opens it in Review.
+- **Join** on a meeting's prep card opens the meeting link. On the iPhone the card's buttons scroll sideways instead of squeezing.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/latest/download/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="0gZNHc3KeC6A666Dmx90D+WHM/LC3OYOG0rggf9JT4VcjZiofkC7XkEac37coYFB9gPYtvGi0W1o+MAyhTA+AQ==" length="38608654" />
+    </item>
+    <item>
       <title>0.1.34.6 (202611190531)</title>
       <pubDate>Thu, 19 Nov 2026 05:36:43 +0000</pubDate>
       <sparkle:version>202611190531</sparkle:version>
