@@ -6,6 +6,18 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.34.4 (202611190306)</title>
+      <pubDate>Thu, 19 Nov 2026 03:25:52 +0000</pubDate>
+      <sparkle:version>202611190306</sparkle:version>
+      <sparkle:shortVersionString>0.1.34.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Merge two companies of one business.** Choose Merge With… in a company's … menu or right-click it. The app suggests companies that look like the same one (same website, handle or name), you choose which one stays, and it gets the other's people, deals, invoices, notes, bank details and bills. Nothing is deleted.
+- A company that was merged says where it is now, with Open.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/latest/download/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="wWyzSTvYzgAcKrkII48Ts5fdedWAvgFkDRoDyxcLZTns05fkl/Alk2ApH9Z2B3cWzgjRYrJTbmCfQKAFhtGLBA==" length="37911004" />
+    </item>
+    <item>
       <title>0.1.34.3 (202611190211)</title>
       <pubDate>Thu, 19 Nov 2026 02:23:16 +0000</pubDate>
       <sparkle:version>202611190211</sparkle:version>
