@@ -6,6 +6,18 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.34.2 (202611190137)</title>
+      <pubDate>Thu, 19 Nov 2026 01:44:31 +0000</pubDate>
+      <sparkle:version>202611190137</sparkle:version>
+      <sparkle:shortVersionString>0.1.34.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **One reply box everywhere.** What you write sits on top across the whole width; the channel (Instagram, Text, Email, Note) and Send sit on the row under it, for every person, every email and a company's notes.
+- **Do Not Disturb** now covers Messenger, WhatsApp and Telegram too.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/latest/download/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="/gGrCJoF5uOrXvrZTC3cl4/A86zSpEM8nCKc/lrDGi+UNyaL+N/lGp3UecbkDI4S+ZPz27M+CZMSfG42g2S8BA==" length="37507068" />
+    </item>
+    <item>
       <title>0.1.34.1 (202611182127)</title>
       <pubDate>Wed, 18 Nov 2026 21:33:56 +0000</pubDate>
       <sparkle:version>202611182127</sparkle:version>
