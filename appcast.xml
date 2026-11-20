@@ -6,6 +6,18 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.34.8 (202611200137)</title>
+      <pubDate>Fri, 20 Nov 2026 01:43:41 +0000</pubDate>
+      <sparkle:version>202611200137</sparkle:version>
+      <sparkle:shortVersionString>0.1.34.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- Booking pages can email the person who booked: right after booking, and before the call (Settings › Booking Pages › Reminders: 10 minutes to 2 days before).
+- Each email has the date, the time in their time zone and the place; a cancel stops the reminders, a move plans them for the new time.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/latest/download/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="W+dnomxQO2N+Ear8+0Ynfclwu2AXlTFrCrq4GnczRO9uqc1ph/sWfVfJlMaVUf4tf6U02Wc5vfN3f1ftBLewCQ==" length="39071274" />
+    </item>
+    <item>
       <title>0.1.34.7 (202611190736)</title>
       <pubDate>Thu, 19 Nov 2026 07:40:56 +0000</pubDate>
       <sparkle:version>202611190736</sparkle:version>
