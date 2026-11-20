@@ -6,6 +6,21 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.34.9 (202611200154)</title>
+      <pubDate>Fri, 20 Nov 2026 01:59:34 +0000</pubDate>
+      <sparkle:version>202611200154</sparkle:version>
+      <sparkle:shortVersionString>0.1.34.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- Inbox: a conversation no longer shrinks to half height after you reply, and a reply that went stops saying «Sending…» by itself.
+- A chat you started from the Instagram app waits under Waiting, and the reply box says when Instagram lets you answer.
+- Settings › Channels is always there, with your accounts from SRG+ Connect.
+- New for each social account: who becomes a contact (people who write to you, also people you write to first, or only your contacts).
+- Booking pages can email the person who booked: right away, and before the call.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/latest/download/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="fDsVVo1YTAEQH4Q/gkJDbKlUc4UKi42d9cZBxJgnI/5aJHzhP3qGTIHBfE9iAOuzr+ERiP4R8VixgWm0kp4kBw==" length="39082773" />
+    </item>
+    <item>
       <title>0.1.34.8 (202611200137)</title>
       <pubDate>Fri, 20 Nov 2026 01:43:41 +0000</pubDate>
       <sparkle:version>202611200137</sparkle:version>
