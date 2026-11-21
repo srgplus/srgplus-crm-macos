@@ -6,6 +6,18 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.34.12 (202611210218)</title>
+      <pubDate>Sat, 21 Nov 2026 02:23:34 +0000</pubDate>
+      <sparkle:version>202611210218</sparkle:version>
+      <sparkle:shortVersionString>0.1.34.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Workspace pictures.** Every workspace in the menu at the top of the sidebar shows its picture, so you see at once which one is open.
+- **Notifications show the workspace.** A new message shows the workspace's picture in the big circle, with the CRM icon small, and the workspace's name under who wrote.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v0.1.34.12-202611210218/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="4EC3tTEzgYVxPw5Mu1LpLd8GRVijHLrz8gpZzpgZwimcGmEh/yNbaPpKKZiSlOO62MfjmwDAmpJvCWHtNTtsBQ==" length="39238619" />
+    </item>
+    <item>
       <title>0.1.34.11 (202611200527)</title>
       <pubDate>Fri, 20 Nov 2026 05:32:14 +0000</pubDate>
       <sparkle:version>202611200527</sparkle:version>
