@@ -6,6 +6,19 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.1 (202611232109)</title>
+      <pubDate>Mon, 23 Nov 2026 21:31:00 +0000</pubDate>
+      <sparkle:version>202611232109</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- Settings › Members shows each person's photo from SRG+ (their initials when they have none).
+- When the CRM can't do something for your account, it now tells you why instead of a general message.
+- Settings › Account links to the Privacy Policy, Terms of Use and Support, and to deleting your SRG+ account.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.1-202611232109/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="V6Qv9vZgNGb4r36wngKcdNNMyioO1icorVJTzkn+C7DjGdPD6jXKU/daCVhs6V8Rtynib1iCX2ti7DKNljmUAA==" length="39499721" />
+    </item>
+    <item>
       <title>0.1.34.13 (202611230011)</title>
       <pubDate>Mon, 23 Nov 2026 00:16:06 +0000</pubDate>
       <sparkle:version>202611230011</sparkle:version>
