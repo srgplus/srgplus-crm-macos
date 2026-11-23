@@ -6,6 +6,17 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.2 (202611232259)</title>
+      <pubDate>Mon, 23 Nov 2026 23:36:02 +0000</pubDate>
+      <sparkle:version>202611232259</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- Drag a smart list up or down under Contacts to put your lists in the order you want. Everyone in the workspace sees the new order.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.2-202611232259/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="/Ut8pJcouFbaZ17Tm00cnRVFVG5Vm1RA++3iQfPrfhUcM2GrdtWyNuXk9dWMG+K6okTD8iM5NWKidAdao+giBQ==" length="39510825" />
+    </item>
+    <item>
       <title>1.0.1 (202611232109)</title>
       <pubDate>Mon, 23 Nov 2026 21:31:00 +0000</pubDate>
       <sparkle:version>202611232109</sparkle:version>
