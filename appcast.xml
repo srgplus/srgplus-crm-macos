@@ -6,6 +6,17 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.34.13 (202611230011)</title>
+      <pubDate>Mon, 23 Nov 2026 00:16:06 +0000</pubDate>
+      <sparkle:version>202611230011</sparkle:version>
+      <sparkle:shortVersionString>0.1.34.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+Settings › Stripe: decide what a purchase in your Stripe does here. Purchase routes per payment link or product (or everything else) set the contact's type, tags, source and owner, and the deal's pipeline and stage, with where a refund or a canceled subscription moves it. The last purchases show the contact, what was bought and what the CRM did.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v0.1.34.13-202611230011/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="aEF3FdxkAO+S2NrV0YcSzHGoAnPClvf1PbFfUbWY7L/7hALqLENN44LB6IR5R+NBRkNqhSF54f4p7S8bTL+nDA==" length="39482879" />
+    </item>
+    <item>
       <title>0.1.34.12 (202611210218)</title>
       <pubDate>Sat, 21 Nov 2026 02:23:34 +0000</pubDate>
       <sparkle:version>202611210218</sparkle:version>
