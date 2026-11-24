@@ -6,6 +6,19 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.7 (202611240931)</title>
+      <pubDate>Tue, 24 Nov 2026 09:39:36 +0000</pubDate>
+      <sparkle:version>202611240931</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Files in emails open.** Click a file of an email you received to see it in Quick Look; a zip goes to your Downloads.
+- **SRG+ Account and Workspace in Settings.** Your name and photo, and the workspace with its people, on the same pages as every SRG+ app.
+- **Affiliate as a card.** The affiliate who brought a person or a deal shows as a card, like deals and meetings, with what they earned; tap it to open the affiliate.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.7-202611240931/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="eo1Ud1197aHJRzsc38FO5PUWUQOAkh2IsoGswGcpEsjagNyRCxvOPMndPN+V92R0hFYS3xSyJ18mzbbj0/1DDw==" length="42776386" />
+    </item>
+    <item>
       <title>1.0.6 (202611240844)</title>
       <pubDate>Tue, 24 Nov 2026 08:53:55 +0000</pubDate>
       <sparkle:version>202611240844</sparkle:version>
