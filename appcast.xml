@@ -6,6 +6,17 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.8 (202611241053)</title>
+      <pubDate>Tue, 24 Nov 2026 10:58:48 +0000</pubDate>
+      <sparkle:version>202611241053</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Posts and reels in Instagram messages.** A post or a reel someone shares in a DM shows as a card with its picture and the first lines of its caption: a reel opens in Instagram, a post opens big with the whole caption.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.8-202611241053/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="S61iG1HzyxbL8EE1tXg7MYcugLXylo+YTBKvb1YlDQA/zU+O79hISVPJCsuu1CxPl0XJSoWfctAl6PjFogj1Cw==" length="42838797" />
+    </item>
+    <item>
       <title>1.0.7 (202611240931)</title>
       <pubDate>Tue, 24 Nov 2026 09:39:36 +0000</pubDate>
       <sparkle:version>202611240931</sparkle:version>
