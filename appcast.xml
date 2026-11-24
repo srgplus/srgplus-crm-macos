@@ -6,6 +6,25 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.6 (202611240844)</title>
+      <pubDate>Tue, 24 Nov 2026 08:53:55 +0000</pubDate>
+      <sparkle:version>202611240844</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Review, the new version.** Jobs nobody has yet sit on top in Unassigned for whoever sorts the work, the team's funnel shows where jobs stand, and every job has Assign To….
+- **Assign to Me.** The first row of every person picker: take a job or a conversation in one click. The search still finds anyone.
+- **Settings › Review.** Who sorts new messages and jobs (the Receptionist) and when a late job counts as stuck.
+- **Not a Contact.** A newsletter, a notice or a cold pitch: one click files the sender as Other, their conversation as Done, and keeps their address out of the CRM from then on.
+- **Affiliates.** The people who bring customers, what they earn and what is paid, under Marketing; Settings › Affiliates sets the programs and the partner portal.
+- **A deal's page.** Who it is with on top: the contact, the company and the owner, and the stage in its colour.
+- **A person's company is a card** with its logo; tap it to open the company.
+- **Group titles like Reminders.** Every group on a person's, a company's and a deal's page has a big bold title that folds.
+- **Activity beside the card.** On the Mac and the iPad a contact's Activity always sits next to the card, never in a sheet.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.6-202611240844/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="WNf9EX4pwkqjUdtKU3AnOHfUiWT/sZIRXKn8PXsMMCKLTpCgbOWe4tmxjaQRv3HMaHKr7zz+6VhgZWZrLFc1Dw==" length="42140869" />
+    </item>
+    <item>
       <title>1.0.5 (202611240537)</title>
       <pubDate>Tue, 24 Nov 2026 06:02:33 +0000</pubDate>
       <sparkle:version>202611240537</sparkle:version>
