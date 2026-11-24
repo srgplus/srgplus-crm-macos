@@ -6,6 +6,22 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.3 (202611232352)</title>
+      <pubDate>Tue, 24 Nov 2026 00:21:01 +0000</pubDate>
+      <sparkle:version>202611232352</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- A contact now has **Followers** besides its one Owner: the people who work with them, such as appointment setters.
+- Owner and Followers sit under the contact's name, with each person's picture. Click to change them, no Edit needed; type a name to find a person.
+- Smart lists can find contacts by Follower.
+- While you edit a card's fields, Done is always on the card, also when the window is narrow.
+- A pipeline stage can follow a meeting: when an appointment is set, held or missed, its deal moves by itself. A deal shows its meetings.
+- Admins can do what the Owner does, and Settings › Members groups people by role with a role menu on each row.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.3-202611232352/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="XO+i/aLs91UatWq0itGdS1TpL/cPW42fM3aWhjECBozxpgvxBhAaa/ymvEUv5ZdKdXkcCyxfCb/VukttwW7EDg==" length="39695451" />
+    </item>
+    <item>
       <title>1.0.2 (202611232259)</title>
       <pubDate>Mon, 23 Nov 2026 23:36:02 +0000</pubDate>
       <sparkle:version>202611232259</sparkle:version>
