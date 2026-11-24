@@ -6,6 +6,18 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.9 (202611241856)</title>
+      <pubDate>Tue, 24 Nov 2026 19:02:45 +0000</pubDate>
+      <sparkle:version>202611241856</sparkle:version>
+      <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- Inbox: the numbers beside Needs Reply, Waiting and each view now match the list. With Unread Only on, they count only the unread conversations.
+- Comments: a comment nobody has answered shows under Needs Reply, including ones written before comments came to the CRM.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.9-202611241856/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="a7gYSg+Ei5myHosDkMeoW17dW4XLuGzg+ZP6YDl/dUhYpByr0ygZyEUonwU4VRCIxakmN3VLraBkmDGb+Y4vCQ==" length="42846593" />
+    </item>
+    <item>
       <title>1.0.8 (202611241053)</title>
       <pubDate>Tue, 24 Nov 2026 10:58:48 +0000</pubDate>
       <sparkle:version>202611241053</sparkle:version>
