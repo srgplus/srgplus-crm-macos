@@ -6,6 +6,21 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.11 (202611242120)</title>
+      <pubDate>Tue, 24 Nov 2026 21:49:44 +0000</pubDate>
+      <sparkle:version>202611242120</sparkle:version>
+      <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Calls to your business number ring in the app.** The Mac shows a ring window with Accept and Decline while the app is open; the first person to answer takes the call, it is recorded and transcribed like your outgoing calls. Nobody answers: the number's forward phone rings, or it is a missed call in the Inbox.
+- **Story replies show the story.** When someone answers your Instagram story, the story now shows above their message, a video story as its first frame; a story that was gone before the CRM kept it says "Story unavailable".
+- **Shared reels show their picture at once**, instead of a grey tile while the app read the reel's page.
+- **Your replies to comments show your account's photo** instead of initials.
+- **A campaign's report** opens on the letter, with Recipients and Analytics beside it.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.11-202611242120/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="/mgJdxCxnyYgOhwxHR+uQW9pXxt4+chnfVXK3bnMhWuzQkvL6MUTbJefjasP+m7Dy4o3bF/zKmESx6TW1d+LDg==" length="43000728" />
+    </item>
+    <item>
       <title>1.0.10 (202611241941)</title>
       <pubDate>Tue, 24 Nov 2026 20:24:29 +0000</pubDate>
       <sparkle:version>202611241941</sparkle:version>
