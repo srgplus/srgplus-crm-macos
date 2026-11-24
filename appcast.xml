@@ -6,6 +6,19 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.4 (202611240108)</title>
+      <pubDate>Tue, 24 Nov 2026 02:01:46 +0000</pubDate>
+      <sparkle:version>202611240108</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- A person's deals and meetings are cards now: every deal with its stage, value and close date; every meeting with its date, status and Join.
+- Move a deal to another stage, or mark a meeting Showed or No-show, right on its card.
+- The + on Deals and Appointments starts a new deal or a new meeting with the person.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.4-202611240108/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="2yRRHQPi5McJeIDzmJ+q3GsYHzlFpaeA/L6UPdYqoC0KY3Nx+QuZj0srNvPvTQT5CzTrhCFMz1Oh61TNt1u7AA==" length="39835929" />
+    </item>
+    <item>
       <title>1.0.3 (202611232352)</title>
       <pubDate>Tue, 24 Nov 2026 00:21:01 +0000</pubDate>
       <sparkle:version>202611232352</sparkle:version>
