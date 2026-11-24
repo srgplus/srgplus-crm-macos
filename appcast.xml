@@ -6,6 +6,19 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.5 (202611240537)</title>
+      <pubDate>Tue, 24 Nov 2026 06:02:33 +0000</pubDate>
+      <sparkle:version>202611240537</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Comments in the Inbox.** Comments on your Instagram posts and Facebook Page posts come into Inbox › Comments. Reply in public or in a DM, hide or unhide, delete, or open the post.
+- **A post's page.** See every comment under one post and add your own.
+- An account that is still waiting for Meta's approval says so in plain words.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.5-202611240537/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="GbAUzdz5C+Ox9dSS+kCu9dXbAaCyqeUOB1UliZSSz8BkOQskTbHA7VRWE/VbCaArDmyOXiUjGlCJgCAVpwKjAw==" length="40730685" />
+    </item>
+    <item>
       <title>1.0.4 (202611240108)</title>
       <pubDate>Tue, 24 Nov 2026 02:01:46 +0000</pubDate>
       <sparkle:version>202611240108</sparkle:version>
