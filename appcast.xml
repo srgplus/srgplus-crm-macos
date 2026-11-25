@@ -6,6 +6,18 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.15 (202611250424)</title>
+      <pubDate>Wed, 25 Nov 2026 05:02:57 +0000</pubDate>
+      <sparkle:version>202611250424</sparkle:version>
+      <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Pictures, videos, stories and files of messages open inside the app.** Click one in a conversation and it opens in Quick Look, one viewer for the whole feed, the way an email's files do. Nothing downloads first.
+- **A story the CRM did not keep a type for plays as a video** when it is not a picture, instead of showing an empty box.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.15-202611250424/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="EZaxJwrQWoMpNVGCYO6Yv8RYKaUufhdxtMeZZD92roRJIPf27bcO9v9FzcHqDUntozJsh2YZJBDxXSkOwaGLAg==" length="43875504" />
+    </item>
+    <item>
       <title>1.0.14 (202611250317)</title>
       <pubDate>Wed, 25 Nov 2026 03:36:36 +0000</pubDate>
       <sparkle:version>202611250317</sparkle:version>
