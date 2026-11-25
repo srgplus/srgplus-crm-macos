@@ -6,6 +6,18 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.17 (202611250658)</title>
+      <pubDate>Wed, 25 Nov 2026 07:04:04 +0000</pubDate>
+      <sparkle:version>202611250658</sparkle:version>
+      <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Agents show their own picture.** In Ask Agent and in the Responsible list an agent has its SRG+ picture instead of two letters (an agent without a picture keeps its letters).
+- **The Responsible list has a search field on top and a People section** with everyone's pictures.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.17-202611250658/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="IOntXKmPryn/oXlV9DbV6bqwH4RsJlmnG3uAVVf5IXl0uciUUZX5ioJ7IkAux2qp7EgbpksJSx8M8z5Fy4gKBw==" length="44625589" />
+    </item>
+    <item>
       <title>1.0.16 (202611250532)</title>
       <pubDate>Wed, 25 Nov 2026 05:47:24 +0000</pubDate>
       <sparkle:version>202611250532</sparkle:version>
