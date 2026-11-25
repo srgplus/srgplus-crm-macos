@@ -6,6 +6,18 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.19 (202611250901)</title>
+      <pubDate>Wed, 25 Nov 2026 09:17:40 +0000</pubDate>
+      <sparkle:version>202611250901</sparkle:version>
+      <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **The Email report starts at the top of the window.** Its name now sits beside the Back and Forward buttons, with no empty strip above it.
+- **The email chart opens on the days it counts.** On the Mac a month, a week or a day could open on older, empty days while the total above it counted the newest ones.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.19-202611250901/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="4ZX5bvjTp4vu2DSjNayJQpQl2xTw70kWgtbK1Rv4ngTVyBheU9pItMsnCvLdEddPPQe7zW2BrAhizd8r9QJPAw==" length="44630043" />
+    </item>
+    <item>
       <title>1.0.18 (202611250712)</title>
       <pubDate>Wed, 25 Nov 2026 07:19:24 +0000</pubDate>
       <sparkle:version>202611250712</sparkle:version>
