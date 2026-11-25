@@ -6,6 +6,20 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.16 (202611250532)</title>
+      <pubDate>Wed, 25 Nov 2026 05:47:24 +0000</pubDate>
+      <sparkle:version>202611250532</sparkle:version>
+      <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Review v3.** Tasks have a short title plus Details, several people on one task, and a task page beside the person's feed; "View as" shows everyone's, a team's or one agent's jobs, with the six tiles on top. Tasks you ask an agent about get a help job under them.
+- **A phone number or email someone writes in a message can fill their contact.** An Admin turns it on in Settings > Contacts; the feed shows the line with Undo, and a phone or email already on the contact is never replaced.
+- **Pictures, videos, stories and files in messages open in Quick Look** from the feed (already in 1.0.15).
+- **The app reads everything in a few seconds.** Opening or refreshing the CRM used to take up to 47 seconds on a big workspace; it now reads contacts, companies and deals in big pages and takes about 3 to 5.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.16-202611250532/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="lJZex0vCsklKyjzCJnNTMWqUWFzCT7LA5TzXivkVYYb1bDx5Ie1R+PFuYM89rn3HwoiEpetBQXAIlTUUjpOECQ==" length="44625077" />
+    </item>
+    <item>
       <title>1.0.15 (202611250424)</title>
       <pubDate>Wed, 25 Nov 2026 05:02:57 +0000</pubDate>
       <sparkle:version>202611250424</sparkle:version>
