@@ -6,6 +6,19 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.13 (202611250151)</title>
+      <pubDate>Wed, 25 Nov 2026 02:05:43 +0000</pubDate>
+      <sparkle:version>202611250151</sparkle:version>
+      <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Inbox conversation like a contact.** An Inbox conversation now has the same tabs as a contact's page (All, Messages, Comments, Emails, Notes, History), who the contact is assigned to sits on top (click to assign), and the next step sits under the tabs. The conversation no longer slides over the list when the card is open.
+- **Group events.** Booking pages can be a group session (webinar or class) with seats, session times and registrations; a person's registration, joined status and move or cancel are on the calendar and the contact.
+- **Opt-in boxes on forms and booking pages.** Edit the optional, unticked boxes for texts and email offers in the form and booking page editors; a person who said STOP and ticks the box again waits for START.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.13-202611250151/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="9vocgC573JMwsd8Yz99dhpSL0vFtXMync0LwWRjqtr2ei2rqI3YXiYdDDt9cZN4DUlztAqXJE/KIDcG0UG4BBA==" length="43746619" />
+    </item>
+    <item>
       <title>1.0.12 (202611250007)</title>
       <pubDate>Wed, 25 Nov 2026 00:21:06 +0000</pubDate>
       <sparkle:version>202611250007</sparkle:version>
