@@ -6,6 +6,21 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.12 (202611250007)</title>
+      <pubDate>Wed, 25 Nov 2026 00:21:06 +0000</pubDate>
+      <sparkle:version>202611250007</sparkle:version>
+      <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **A campaign's Analytics.** Open a campaign and see opens, clicks and bounces by hour, day or status, live while it is still sending. Reports show the same numbers for every email.
+- **Email Templates.** Settings › Email Templates: edit the emails the CRM sends for you and put a saved template into the reply box with Insert Template.
+- **Marketing and Service apart.** A person's Do Not Disturb has a Marketing row under Email and under Texts, so a marketing unsubscribe no longer stops service emails. Sequences have a Category.
+- **Cancel Meeting.** Every meeting status menu has Cancel Meeting…, which asks first. A lost stage takes Canceled, and booking pages have a Confirm Bookings switch.
+- **Inbox acts at once.** Mark as read, archive and assign in the Inbox show right away, without waiting for the server.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.12-202611250007/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="htT1Z+R9sqZfKumIHcI8/x4ukkL3XcdoIwrHkYhNKilP7QF8FYZdVyqxPJJgKNkM8g998zKADyUscjtyyx8rDA==" length="43286062" />
+    </item>
+    <item>
       <title>1.0.11 (202611242120)</title>
       <pubDate>Tue, 24 Nov 2026 21:49:44 +0000</pubDate>
       <sparkle:version>202611242120</sparkle:version>
