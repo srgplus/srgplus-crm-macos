@@ -6,6 +6,18 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.22 (202611260518)</title>
+      <pubDate>Thu, 26 Nov 2026 05:25:06 +0000</pubDate>
+      <sparkle:version>202611260518</sparkle:version>
+      <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Affiliate stages.** Every affiliate is New, Onboarding, Active, Inactive or Paused. Affiliates open as List, Table or Board like Contacts, with the stages in the sidebar and their counts.
+- **Messages beside the affiliate.** The panel shows the conversation with Message, Call, Email and Note, and a switch to the affiliate's own history. Back returns to the same affiliate.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.22-202611260518/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="XtM+s/AbCE6+C9dIhDZ6SjqglFJOITp5VbrRCpCN5GBCG/VMQ9wci0dTqjpsC2lWlI7I8cGGmOCRDSfGFawJDQ==" length="46226607" />
+    </item>
+    <item>
       <title>1.0.21 (202611260323)</title>
       <pubDate>Thu, 26 Nov 2026 03:33:42 +0000</pubDate>
       <sparkle:version>202611260323</sparkle:version>
