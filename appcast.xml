@@ -6,6 +6,18 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.21 (202611260323)</title>
+      <pubDate>Thu, 26 Nov 2026 03:33:42 +0000</pubDate>
+      <sparkle:version>202611260323</sparkle:version>
+      <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Store.** Orders, Drafts and Shipping Labels; Products, Inventory and Collections, as in Shopify. In the sidebar of the workspaces where the Store is open.
+- **Quote the email you answer.** A reply carries the email it answers below it.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.21-202611260323/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="soMEWym4fuAhPxx2+PNGWODqP+jQeJCBj7FyBajayg3jhUBhuhtt9tEWHGRxiW4+Ah8rQKBo2gb5wPMo4CQ9Ag==" length="46058559" />
+    </item>
+    <item>
       <title>1.0.20 (202611252319)</title>
       <pubDate>Wed, 25 Nov 2026 23:32:10 +0000</pubDate>
       <sparkle:version>202611252319</sparkle:version>
