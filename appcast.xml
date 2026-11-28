@@ -6,6 +6,18 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.23 (202611272346)</title>
+      <pubDate>Sat, 28 Nov 2026 00:53:11 +0000</pubDate>
+      <sparkle:version>202611272346</sparkle:version>
+      <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Campaigns send in waves.** In a campaign's Pace, «In waves» sends a set number of emails every few minutes (for example 100 every 30 minutes) instead of all at once, so a new sending domain does not look like a burst. The sending line now reads «400 sent · 14 skipped · 890 waiting».
+- **A wider panel when you need it.** Drag the line between the table (or a deal board) and the panel on the right to make the panel wider or narrower; the width stays. Double-click the line to go back to the automatic width. Activity no longer runs past the window: in a narrow panel, Send moves to its own line.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.23-202611272346/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="Qt5B+/wnqZbd81hkuIBsk3UKjRAdUeO8kIrnEUaWpXv1cjg/YSvYuFyGx0hbiz5f8qtH9+81LIpu1bqdUdqLBw==" length="46259148" />
+    </item>
+    <item>
       <title>1.0.22 (202611260518)</title>
       <pubDate>Thu, 26 Nov 2026 05:25:06 +0000</pubDate>
       <sparkle:version>202611260518</sparkle:version>
