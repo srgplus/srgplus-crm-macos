@@ -6,6 +6,20 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.24 (202611280143)</title>
+      <pubDate>Sat, 28 Nov 2026 01:52:03 +0000</pubDate>
+      <sparkle:version>202611280143</sparkle:version>
+      <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Campaigns to a live session's people.** A campaign's «To» can be the people registered for one or more live sessions: everyone, only those who joined, or only those who missed it.
+- **Letters for group pages.** A booking page's letters can leave out «With <host>» and end with your own signature line.
+- **A daily summary of registrations.** Notifications › «Live session registrations» sends the team one summary a day: new registrations by session and who came to the sessions that ended.
+- **Spam.** Mark any conversation as Spam from ⋯ or its row, in every channel. It moves to Inbox › Spam (at the end, no number): no notifications from that person, and their calls are turned away before they ring. Not Spam brings it back. Spam is cleared after 30 days.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.24-202611280143/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="Em9oYqYX/ox/nxp3yl8Tt+Rd5otA6Z8GzxLfS5GwJdBF9RsSUXzJ9PggePmJmQy7Pl+y4O/e36KS6b6SLRz9Dw==" length="46603898" />
+    </item>
+    <item>
       <title>1.0.23 (202611272346)</title>
       <pubDate>Sat, 28 Nov 2026 00:53:11 +0000</pubDate>
       <sparkle:version>202611272346</sparkle:version>
