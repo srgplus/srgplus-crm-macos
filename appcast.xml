@@ -6,6 +6,18 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.27 (202611280406)</title>
+      <pubDate>Sat, 28 Nov 2026 04:13:26 +0000</pubDate>
+      <sparkle:version>202611280406</sparkle:version>
+      <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Real network logos in the Inbox.** The small badge on a person's picture now shows each network's own logo: Messenger for a Page's messages, the Facebook «f» for comments on your Page's posts, and Instagram, Threads, WhatsApp and Telegram.
+- **Agents look like themselves.** An agent with a cut-out face is drawn as it is, with no grey circle behind it.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.27-202611280406/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="VU3w2Gi4I7yRjK0WRp3INm0uSkMcEl0K+7G+wkD+DhVOXNC8RDyCij1XbNxd8bKKNtgxsQlOI4nxbXUhiUq9Dg==" length="46916508" />
+    </item>
+    <item>
       <title>1.0.26 (202611280227)</title>
       <pubDate>Sat, 28 Nov 2026 02:36:54 +0000</pubDate>
       <sparkle:version>202611280227</sparkle:version>
