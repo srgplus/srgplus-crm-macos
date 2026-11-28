@@ -6,6 +6,18 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.26 (202611280227)</title>
+      <pubDate>Sat, 28 Nov 2026 02:36:54 +0000</pubDate>
+      <sparkle:version>202611280227</sparkle:version>
+      <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Email categories, like Apple Mail.** The Email list has a row of categories on top: Primary (opens first), Transactions, Updates, Promotions and All Mail. Only Primary counts as news: Needs Reply, unread and notifications. Receipts and other mail about money go to Transactions.
+- **Categorize Sender.** From a conversation's menu, move a sender to another category; their next emails follow. About Categories shows how mail is sorted, and you can reset the senders you moved.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.26-202611280227/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="ubiyfZxmwybSipUceqS80IYzemOU3D8KRvMuCu1wfSxxGaSiewJ2TcB8y+Cq7nGLLoLTyoPqhnOtlnJ3f6hoAw==" length="46883808" />
+    </item>
+    <item>
       <title>1.0.25 (202611280205)</title>
       <pubDate>Sat, 28 Nov 2026 02:11:53 +0000</pubDate>
       <sparkle:version>202611280205</sparkle:version>
