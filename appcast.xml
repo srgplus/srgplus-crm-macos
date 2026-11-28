@@ -6,6 +6,17 @@
     <description>Updates of SRG+ CRM for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.25 (202611280205)</title>
+      <pubDate>Sat, 28 Nov 2026 02:11:53 +0000</pubDate>
+      <sparkle:version>202611280205</sparkle:version>
+      <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **WhatsApp templates in the reply box.** When WhatsApp's 24 hours since the person's last message have passed, the reply box offers **Send Template…**: your number's templates with Meta's status (Approved, In Review, Rejected with the reason). Pick one, fill in its values with a live preview, and send. **New Template** sends a new one to Meta for review.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-crm-macos/releases/download/v1.0.25-202611280205/SRG-Plus-CRM.dmg" type="application/octet-stream" sparkle:edSignature="ELu2djK8pxq1p1u4dy8uXBA/X/j9mfzGJJmXoV3ERQs1JvFobdnElFWsNG37iWB7+efnEA7g+zOHnLWpeqq6Cg==" length="46733198" />
+    </item>
+    <item>
       <title>1.0.24 (202611280143)</title>
       <pubDate>Sat, 28 Nov 2026 01:52:03 +0000</pubDate>
       <sparkle:version>202611280143</sparkle:version>
